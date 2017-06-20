@@ -1,0 +1,61 @@
+body {
+  background-color: white;
+}
+
+.navbar navbar-inverse {
+  margin-left: 150px;
+}
+
+.container {
+
+  margin: auto;
+}
+
+.green {
+  background-color: green;
+  height: auto;
+  width: 100%;
+}
+
+.item {
+  width: 100%;
+}
+
+.blue {
+  background-color: blue;
+  height: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.yellow {
+  background-color: yellow;
+  height: 100px;
+}
+
+.purple {
+  background-color: purple;
+  height: 100px;
+}
+
+.footer {
+  background-color: red;
+  height: 100px;
+}
+
+.col-md-offset-2 col-md-3 red {
+  color: red;
+}
+
+.p {
+  display: block;
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 5px;
+}
+
+.span {
+  padding: 5px;
+}
